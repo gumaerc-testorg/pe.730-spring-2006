@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on stretch out with partner or by
   self Choose equipment-bow, quiver, and arrows, arm guard finger tab.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-730-archery-spring-2006/d173b1a47adbefc9c61793ae9cb8e693_lec_10.pdf
+file: /media/courses/pe-730-archery-spring-2006/d173b1a47adbefc9c61793ae9cb8e693_lec_10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec_10.pdf
 uid: d173b1a4-7adb-efc9-c617-93ae9cb8e693

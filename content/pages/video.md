@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Video
 uid: fa507b76-45f9-2b10-1d86-6569a716192c
 ---

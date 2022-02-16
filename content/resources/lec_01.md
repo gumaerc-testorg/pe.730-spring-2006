@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on  class objectives, safety, equipment,
   how to string the bow.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/pe-730-archery-spring-2006/91d27dc41c44ccdca8813474586433c5_lec_01.pdf
+file: /media/courses/pe-730-archery-spring-2006/91d27dc41c44ccdca8813474586433c5_lec_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec_01.pdf
 uid: 91d27dc4-1c44-ccdc-a881-3474586433c5
