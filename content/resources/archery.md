@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video
 parent_type: CourseSection
+parent_uid: fa507b76-45f9-2b10-1d86-6569a716192c
 resourcetype: Document
 title: archery.pdf
 uid: d1889b78-650a-a369-355b-7a25b28350a2
