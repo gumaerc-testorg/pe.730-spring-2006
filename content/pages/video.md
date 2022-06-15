@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video
@@ -224,4 +225,4 @@ Student 3: Closeup of the release.
 
 {{< tableclose >}}
 
-And on certain nice days in early fall and late spring, the class will go outside to practice shooting in real-world conditions, like high wind.  Images from one of those outdoor sessions can be seen here. ([PDF]({{< baseurl >}}/resources/archery))
+And on certain nice days in early fall and late spring, the class will go outside to practice shooting in real-world conditions, like high wind.  Images from one of those outdoor sessions can be seen here. ({{% resource_link d1889b78-650a-a369-355b-7a25b28350a2 "PDF" %}})

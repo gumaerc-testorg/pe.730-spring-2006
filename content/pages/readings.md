@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The reading section includes the useful texts and videos.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
