@@ -6,6 +6,7 @@ file: /courses/pe-730-archery-spring-2006/0bff6bb12e27b5cbed1c6d70bd794bba_lec_0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec_05.pdf
 uid: 0bff6bb1-2e27-b5cb-ed1c-6d70bd794bba
 ---
 This resource includes information on adjusting the sight on the bow to aim, scoring.
-

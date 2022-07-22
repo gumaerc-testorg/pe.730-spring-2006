@@ -5,6 +5,7 @@ file: /courses/pe-730-archery-spring-2006/01dab08dc3b091773f3460f2dff9454e_lec_0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec_09.pdf
 uid: 01dab08d-c3b0-9177-3f34-60f2dff9454e
 ---
 This resource includes information on clout shooting, and team tournament.
-
