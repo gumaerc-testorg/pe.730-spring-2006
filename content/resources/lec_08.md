@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on class tournament - "Singles Tourney".
 file: /courses/pe-730-archery-spring-2006/1bfb658ed3a0118bff5aeb7ebd0709bf_lec_08.pdf
+file_size: 32585
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
