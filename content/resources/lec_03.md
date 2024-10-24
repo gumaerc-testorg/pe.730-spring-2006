@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on draw technique; stance, arm and
   body position, anchor points, aim, release, follow through practice shooting.
-file: /courses/pe-730-archery-spring-2006/863afe2a24a62a43b71a3e9701fb2d97_lec_03.pdf
+file: /ol-ocw-studio-app/courses/pe-730-archery-spring-2006/863afe2a24a62a43b71a3e9701fb2d97_lec_03.pdf
 file_size: 32956
 file_type: application/pdf
 learning_resource_types:
