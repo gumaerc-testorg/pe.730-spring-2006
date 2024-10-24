@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on speed shooting techniques with
   a brief description.
-file: /courses/pe-730-archery-spring-2006/a827f1aa00b1803fb7eb20b0a1f07b2f_lec_07.pdf
+file: /ol-ocw-studio-app/courses/pe-730-archery-spring-2006/a827f1aa00b1803fb7eb20b0a1f07b2f_lec_07.pdf
 file_size: 32593
 file_type: application/pdf
 learning_resource_types:
