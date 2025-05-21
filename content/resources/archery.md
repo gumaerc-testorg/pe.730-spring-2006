@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/pe-730-archery-spring-2006/d1889b78650aa369355b7a25b28350a2_archery.pdf
+file: /courses/pe-730-archery-spring-2006/d1889b78650aa369355b7a25b28350a2_archery.pdf
 file_size: 232487
 file_type: application/pdf
 learning_resource_types: []
