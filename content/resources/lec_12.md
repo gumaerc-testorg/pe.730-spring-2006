@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on distance shooting tournament.
-file: /ol-ocw-studio-app/courses/pe-730-archery-spring-2006/691285a844abefe4dd949b7e55e439a5_lec_12.pdf
+file: /courses/pe-730-archery-spring-2006/691285a844abefe4dd949b7e55e439a5_lec_12.pdf
 file_size: 31706
 file_type: application/pdf
 learning_resource_types:
