@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on scoring 6 ends, 15 yard shooting.
-file: /courses/pe-730-archery-spring-2006/7d3504c67d3cb72ffbfcda9b6f299c4a_lec_06.pdf
+file: /ol-ocw-studio-app/courses/pe-730-archery-spring-2006/7d3504c67d3cb72ffbfcda9b6f299c4a_lec_06.pdf
 file_size: 32285
 file_type: application/pdf
 learning_resource_types:
