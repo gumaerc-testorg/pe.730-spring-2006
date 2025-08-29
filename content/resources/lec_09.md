@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on clout shooting, and team tournament.
-file: /courses/pe-730-archery-spring-2006/01dab08dc3b091773f3460f2dff9454e_lec_09.pdf
+file: /ol-ocw-studio-app/courses/pe-730-archery-spring-2006/01dab08dc3b091773f3460f2dff9454e_lec_09.pdf
 file_size: 33366
 file_type: application/pdf
 learning_resource_types:
